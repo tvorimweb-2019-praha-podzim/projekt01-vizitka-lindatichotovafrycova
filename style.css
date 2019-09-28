@@ -1,0 +1,58 @@
+
+
+
+body {
+    color: rgb(34, 42, 49);
+    background-color: #a6dadd;
+    font-family: 'Asap Condensed', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 40px;
+    text-align: center;
+    color: #fcfbfd;
+    margin: 0;
+    
+}
+
+.studium_prace {
+    background-color: #a6dadd;
+}
+
+.studium_prace img {
+
+    border-radius: 50%;
+    width: 110px;
+    float: right;
+    
+}   
+
+.hlavicka {
+    background-image: url(foto/les.jpg);
+    padding: 100px 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+
+  body {
+    margin: 0;
+}
+
+
+section {
+    padding: 5px 20%;
+}
+
+.paticka {
+    font-size: 15px;
+    color: #fcfbfd;
+    background-color: hsl(197, 42%, 30%);
+    text-align: center;
+    padding: 2px;
+    margin-top: 20px;
+} 
